@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#data
+.data/
+ ##예외데이터를 올릴 수 있다
